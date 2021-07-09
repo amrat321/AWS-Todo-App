@@ -1,0 +1,15 @@
+._home_div{
+    width: 100%;
+margin: auto;
+border: 2px solid black;
+}
+.paper{
+   padding: 50px;
+
+}
+.values_div{
+    margin: 20px;
+    padding: 20px;
+    color: dodgerblue;
+    font-weight: bold;
+}
